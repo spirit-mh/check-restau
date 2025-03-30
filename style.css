@@ -199,6 +199,11 @@ header .head-nav {
     cursor: pointer;
 }
 
+.contact-form button:hover,
+.contact-form button:focus {
+    background-color: #149CEA;
+}
+
 /* footer */
 
 .footer {
